@@ -1,0 +1,14 @@
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\bin\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.exe
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\bin\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.deps.json
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\bin\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.runtimeconfig.json
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\bin\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.dll
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\bin\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.pdb
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.AssemblyInfoInputs.cache
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.AssemblyInfo.cs
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.csproj.CoreCompileInputs.cache
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.dll
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\refint\Encapsulation , Polimorfizm and Abstraction.dll
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.pdb
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\Encapsulation , Polimorfizm and Abstraction.genruntimeconfig.cache
+C:\C#\Encapsulation , Polimorfizm and Abstraction\Encapsulation , Polimorfizm and Abstraction\obj\Debug\net6.0\ref\Encapsulation , Polimorfizm and Abstraction.dll
